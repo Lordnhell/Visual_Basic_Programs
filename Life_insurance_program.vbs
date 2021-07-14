@@ -1,4 +1,4 @@
-#Simple program for a mock insurance premium calculator using a points system
+//Simple program for a mock insurance premium calculator using a points system
 
 Module Module1
     Dim totalpoints, ans As Integer
